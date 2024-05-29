@@ -6,6 +6,7 @@
   "homepage": "https://pambatista.github.io/bingo-migos/",
   "scripts": {
     "dev": "vite",
+    "build": "vite build",
     "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
